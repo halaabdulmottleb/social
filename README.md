@@ -13,7 +13,7 @@ pip php artisan serve
 ```
 # open 
 ```bash
-pip [localhost:8000]
+pip localhost:8000
 ```
 
 
