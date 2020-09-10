@@ -5,7 +5,7 @@ install folder and locate it in xampp\htdocs
 2- open cmd in project path  <br/>
 3- run command <br/>
 ```bash
-pip php artisan migarte
+ php artisan migarte
 ```
 3- run command 
 ```bash
@@ -13,7 +13,7 @@ pip php artisan serve
 ```
 # open 
 ```bash
-pip localhost:8000
+ http://localhost:8000
 ```
 
 
